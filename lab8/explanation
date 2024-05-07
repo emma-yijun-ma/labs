@@ -1,0 +1,1 @@
+use memoization table, with helper method recursively finding min coins needed for each line
